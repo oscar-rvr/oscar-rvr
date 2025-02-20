@@ -7,7 +7,7 @@ Computer Systems Engineering
 I am a motivated student in computer science engineering in my last semester. I am passionate about development. I would like to get a professional opportunity to improve my hard skills and share my knowledge. I like to work in a team, and I am good at communicating.
 
 *   🌍  I'm based in México
-*   🖥️  See my portfolio at [MyPortfolio](http://https://oscar-rvr.github.io/)
+*   🖥️  See my portfolio at [MyPortfolio](https://oscar-rvr.github.io/)
 *   ✉️  You can contact me at [oscar\_rvr@outlook.com](mailto:oscar_rvr@outlook.com)
 *   🚀  I'm currently working on [MuscleFit](http://https://oscar-rvr.github.io/muscleFit)
 *   🧠  I'm learning express.js
